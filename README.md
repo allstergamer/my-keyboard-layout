@@ -18,7 +18,7 @@ if you want to temporarily deactivate the program press alt and altGr at the sam
 <br>
 if you have the same issue as me with the default layout you can set it as autostart<br>
 
-<br>
+
 # for autostart the programm
 windows key + r<br>
 shell:startup<br>
