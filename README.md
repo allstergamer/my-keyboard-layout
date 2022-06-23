@@ -56,14 +56,14 @@ for example this is new:<br>
 8 + AltGr = (<br>
 9 + AltGr = )<br>
 0 + AltGr = =<br>
-- + AltGr = ß<br>
-- + AltGr + shift = ?<br>
+\- + AltGr = ß<br>
+\- + AltGr + shift = ?<br>
 <br>
 Q + AltGr = @<br>
 E + AltGr = €<br>
 T + AltGr = ⸸<br>
-\[ + AltGr = ü<br>
-\[ + AltGr + shift = Ü<br>
+[ + AltGr = ü<br>
+[ + AltGr + shift = Ü<br>
 ] + AltGr = +<br>
 ] + AltGr + shift = \*<br>
 <br>
