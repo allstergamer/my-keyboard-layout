@@ -2,14 +2,14 @@
 
 this is used for windows keyboard layout (qwerty x qwertz mix)<br>
 
-I use the default pkl.exe (Portable keyboard Layout) with qwerty layout but I changed everything for german because I also need qwertz with öäü etc. 
-at this point: yes I am from Germany<br>
+I use the default pkl.exe (Portable keyboard Layout) with qwerty layout but I changed everything for German because I also need qwertz with öäü etc. 
+at this point: yes, I am from Germany<br>
 
 I need the keys ;:<>... for an easier way of coding
-but for documents in german, I need öäüß... <br>
+but for documents in German, I need öäüß... <br>
 
-to use this without change every time the keyboard layout I used qwerty with german keys set to AltGr<br>
-for example of my layout here is a picture of this:<br>
+to use this without change every time the keyboard layout I used qwerty with German keys set to AltGr<br>
+for example, of my layout here is a picture of this:<br>
 ![state0](https://user-images.githubusercontent.com/63209264/175241202-80e0621d-d001-4198-a412-491d27179460.png) 
 <br>
 
@@ -28,7 +28,7 @@ if you have the same issue as me with the default layout you can set it as autos
 
 
 
-# for autostart the programm
+# for autostart the program
 windows key + r<br>
 shell:startup<br><br>
 ![grafik1](https://user-images.githubusercontent.com/63209264/175245657-97c04510-5724-4dde-9f64-172029718ccf.png)
@@ -45,8 +45,8 @@ done<br>
 # the keyboard
 
 <br>
-thats the default qwerty keyboard (i guess) with little ganges<br>
-for example this is new:<br>
+that’s the default qwerty keyboard with little changes<br>
+for example, this is new:<br>
 <br>
 ` + AltGr = √ <br> 
 2 + AltGr = "<br>
