@@ -48,7 +48,7 @@ done<br>
 thats the default qwerty keyboard (i guess) with little ganges<br>
 for example this is new:<br>
 <br>
-
+\` + AltGr = √ <br> 
 2 + AltGr = "<br>
 3 + AltGr = §<br>
 6 + AltGr = &<br>
@@ -58,6 +58,9 @@ for example this is new:<br>
 0 + AltGr = =<br>
 \- + AltGr = ß<br>
 \- + AltGr + shift = ?<br>
+\+ + AltGr + shift = ≠
+\+ + AltGr = ≡
+
 <br>
 Q + AltGr = @<br>
 E + AltGr = €<br>
