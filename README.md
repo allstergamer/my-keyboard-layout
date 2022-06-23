@@ -74,6 +74,8 @@ T + AltGr = ⸸<br>
 \ + AltGr = #<br>
 \ + AltGr + shift = '<br>
 <br>
+M + AltGr = ⛤<br>
+M + AltGr + shift = ⛧ <br>
 , + AltGr + shift = 〈<br>
 . + AltGr + shift = 〉<br>
 / + AltGr = -<br>
