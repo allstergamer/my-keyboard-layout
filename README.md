@@ -62,8 +62,8 @@ for example this is new:
 Q + AltGr = @
 E + AltGr = €
 T + AltGr = ⸸
-[ + AltGr = ü
-[ + AltGr + shift = Ü
+\[ + AltGr = ü
+\[ + AltGr + shift = Ü
 ] + AltGr = +
 ] + AltGr + shift = *
 
