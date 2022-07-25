@@ -56,10 +56,10 @@ for example, this is new:<br>
 8 + AltGr = (<br>
 9 + AltGr = )<br>
 0 + AltGr = =<br>
-\- + AltGr = ß<br>
-\- + AltGr + shift = ?<br>
-\+ + AltGr + shift = ≠
-\+ + AltGr = ≡
+- + AltGr = ß<br>
+- + AltGr + shift = ?<br>
++ + AltGr + shift = ≠
++ + AltGr = ≡
 
 <br>
 Q + AltGr = @<br>
