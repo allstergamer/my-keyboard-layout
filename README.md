@@ -1,26 +1,21 @@
 # what is this for?
 
-this is used for windows keyboard layout (qwerty x qwertz mix)<br>
+i need qwertz for german language (öäü keys) but for coding is qwerty faster<br>
 
-I use the default pkl.exe (Portable keyboard Layout) with qwerty layout but I changed everything for German because I also need qwertz with öäü etc. 
-at this point: yes, I am from Germany<br>
+I used the default pkl.exe (Portable keyboard Layout) with qwerty layout <br>
+i added more custom ascii symbols for better documents, support and fun
 
-I need the keys ;:<>... for an easier way of coding
-but for documents in German, I need öäüß... <br>
-
-to use this without change every time the keyboard layout I used qwerty with German keys set to AltGr<br>
+to use this without change every time the keyboard layout I used qwerty with German-keys set to AltGr<br>
 for example, of my layout here is a picture of this:<br>
-![state0](https://user-images.githubusercontent.com/63209264/175241202-80e0621d-d001-4198-a412-491d27179460.png) 
+![image](https://user-images.githubusercontent.com/63209264/217169563-091ec240-4991-476b-8ee2-0f6b40dd4a19.png)
 <br>
-
-
 
 # features
 if you use it and can't remember any of the other keys in this layout press F1 and windows key for the picture as pop-out<br>
-if you want to temporarily deactivate the program press alt and altGr at the same time<br><br>
+if you want to deactivate/reactivate the program press alt and altGr at the same time (or both alt keys)<br><br>
 ![pkl demo](https://user-images.githubusercontent.com/63209264/175245442-a50cde1e-1e1e-41e5-aea2-7aefb785c9b4.png)<br>
 <br>
-if you have the same issue as me with the default layout you can set it as autostart<br>
+if you have the same issue as me with the default layout you can set it to autostart<br>
 
 
 
@@ -45,7 +40,8 @@ done<br>
 # the keyboard
 
 <br>
-that’s the default qwerty keyboard with little changes<br>
+that’s the default qwerty keyboard with little changes from 1.0<br>
+other changes are in there release written
 for example, this is new:<br>
 <br>
 ` + AltGr = √ <br> 
