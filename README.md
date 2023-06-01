@@ -6,8 +6,9 @@ I used the default pkl.exe (Portable keyboard Layout) with qwerty layout <br>
 i added more custom ascii symbols for better documents, support and fun
 
 to use this without change every time the keyboard layout I used qwerty with German-keys set to AltGr<br>
-for example, of my layout here is a picture of this:<br>
-![image](https://user-images.githubusercontent.com/63209264/217169563-091ec240-4991-476b-8ee2-0f6b40dd4a19.png)
+for example, of my layout here is a picture of this:<br> 
+![keyboard](https://github.com/allstergamer/my-keyboard-layout/assets/63209264/925b6040-11a6-44dc-b8bd-aa6b60624358)
+
 <br>
 
 # features
